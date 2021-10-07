@@ -6,7 +6,7 @@
 
 #### Dependency Updates
 
-- Upgraded `azure-core` and other dependencies for the library.
+- Upgraded azure-core to 1.21.0
 
 ## 1.1.2 (2021-09-23)
 
