@@ -7,6 +7,8 @@
 ### Breaking Changes
 
 ### Bugs Fixed
+- Fixed a bug where AzureSeekableByteChannel.read would not return -1 (EOF) when position was at
+  the end of the file (position == size).
 
 ### Other Changes
 
